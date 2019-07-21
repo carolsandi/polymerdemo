@@ -1,10 +1,22 @@
 {
-"posts": [
-	{
-	"id": 1,
-	"name": "Carol",
-	"comment": "Hello everyone!",
-	"date": "21/07/2018"
-	}
-]
+	"posts": [
+		{
+		"id": 1,
+		"name": "student01",
+		"comment": "The Polymer library provides a set of features for creating custom elements. These features are designed to make it easier and faster to make custom elements that work like standard DOM elements.",
+		"date": "12-02-2017"
+		},
+		{
+		"id": 2,
+		"name": "carol",
+		"comment": "Hello everyone!",
+		"date": "21-07-2018"
+		},
+		{
+		"id": 3,
+		"name": "core",
+		"comment": "When you can’t find the sunshine, be the sunshine",
+		"date": "30-06-2019"
+		}
+	]
 }
