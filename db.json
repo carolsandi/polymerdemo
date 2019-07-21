@@ -1,0 +1,10 @@
+{
+"posts": [
+	{
+	"id": 1,
+	"name": "Carol",
+	"comment": "Hello everyone!",
+	"date": "21/07/2018"
+	}
+]
+}
